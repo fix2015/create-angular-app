@@ -1,0 +1,29 @@
+{
+  "name": "create-angular-app",
+  "version": "1.2.0",
+  "keywords": [
+    "react"
+  ],
+  "description": "Simple AngularJS Boilerplate for install sudo npm install -g create-angular-app",
+  "repository": "fix2015/create-angular-app",
+  "license": "MIT",
+  "engines": {
+    "node": ">=4"
+  },
+  "bugs": {
+    "url": "https://github.com/fix2015/create-angular-app/issues"
+  },
+  "files": [
+    "index.js"
+  ],
+  "bin": {
+    "create-angular-app": "./index.js"
+  },
+  "dependencies": {
+    "chalk": "^1.1.1",
+    "cross-spawn": "^4.0.0",
+    "minimist": "^1.2.0",
+    "path-exists": "^2.1.0",
+    "semver": "^5.0.3"
+  }
+}
