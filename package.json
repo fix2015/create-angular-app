@@ -1,8 +1,8 @@
 {
   "name": "create-angular-app",
-  "version": "1.2.0",
+  "version": "2.0.0",
   "keywords": [
-    "react"
+    "angular"
   ],
   "description": "Simple AngularJS Boilerplate for install sudo npm install -g create-angular-app",
   "repository": "fix2015/create-angular-app",
