@@ -5,7 +5,7 @@
 sudo npm install -g create-angular-app 
 ```
 
-This package includes the global command for [Create Angular App](https://github.com/fix2015/create-angular-app).  
+This package includes the global command for [Create Angular App](https://github.com/fix2015/angular-scripts).  
 Please refer to its documentation:
 
-* [Getting Started](https://github.com/fix2015/create-angular-app) – How to create a new app.
+* [Getting Started](https://github.com/fix2015/angular-scripts) – How to create a new app.
