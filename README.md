@@ -2,7 +2,9 @@
 
 # For install app
 ```bash
-sudo npm install -g create-angular-app 
+sudo npm install -g create-angular-app
+ 
+create-angular-app projectName
 ```
 
 This package includes the global command for [Create Angular App](https://github.com/fix2015/angular-scripts).  
